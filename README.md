@@ -1,6 +1,6 @@
 # ⏺ Pawns
 
-> ☣ **Warning:** This project was created for educational purposes only. It may contain non-optimal or outdated solutions.
+> ☣ **Warning:** This project was created during my studies for educational purposes only. It may contain non-optimal or outdated solutions.
 
 ### 📰 About | Rules
 
